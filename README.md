@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### 🔗 My Links
+- 📄 **Portfolio:** [Download PDF](https://github.com/username/Portfolio/raw/main/My_Portfolio.pdf)
+- ✍️ **Blog:** [https://developing-soosoo.tistory.com/](https://developing-soosoo.tistory.com/)
+- 💻 **GitHub:** [https://github.com/sara5885](https://github.com/sara5885)
+
 <!--
 **sara5885/sara5885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
