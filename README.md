@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔗 My Links
-- 📄 **Portfolio:** [Download PDF](https://github.com/sara5885/Portfolio/raw/main/Portfolio.pdf)
+- 📄 **Portfolio:** [Download PDF](https://github.com/sara5885/Portfolio/blob/main/Porfolio_SoojinHwang.pdf)
 - ✍️ **Blog:** [https://developing-soosoo.tistory.com/](https://developing-soosoo.tistory.com/)
 - 💻 **GitHub:** [https://github.com/sara5885](https://github.com/sara5885)
 
