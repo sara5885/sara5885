@@ -5,6 +5,7 @@
 - 📄 **Portfolio:** [Download PDF](https://github.com/sara5885/Portfolio/blob/main/Porfolio_SoojinHwang.pdf)
 - ✍️ **Blog:** [https://developing-soosoo.tistory.com/](https://developing-soosoo.tistory.com/)
 - 💻 **GitHub:** [https://github.com/sara5885](https://github.com/sara5885)
+- 👯 **LinkedIn:** [https://www.linkedin.com/in/soojin-hwang-8274a4251/](https://www.linkedin.com/in/soojin-hwang-8274a4251/)
 
 <!--
 **sara5885/sara5885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
