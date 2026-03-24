@@ -2,9 +2,9 @@
 
 ### 🔗 My Links
 - 📄 **CV:** [Download PDF](https://github.com/sara5885/Portfolio/blob/main/CV_SoojinHwang.pdf)
-- 📄 **Portfolio:** [Download PDF](https://github.com/sara5885/Portfolio/blob/main/Porfolio_SoojinHwang.pdf)
+- 💻 **Portfolio:** [Download PDF](https://github.com/sara5885/Portfolio/blob/main/Porfolio_SoojinHwang.pdf)
 - ✍️ **Blog:** [https://developing-soosoo.tistory.com/](https://developing-soosoo.tistory.com/)
-- 💻 **GitHub:** [https://github.com/sara5885](https://github.com/sara5885)
+- 📄 **Google Scholar:** [https://scholar.google.com/citations?user=ElLS2W8AAAAJ&hl=en](https://scholar.google.com/citations?user=ElLS2W8AAAAJ&hl=en)
 - 👯 **LinkedIn:** [https://www.linkedin.com/in/soojin-hwang-8274a4251/](https://www.linkedin.com/in/soojin-hwang-8274a4251/)
 
 <!--
